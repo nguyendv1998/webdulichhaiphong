@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cb2a917-9a9b-4971-8769-aa790fa30b90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/models/ViewBaiVietChiTiet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/views/site/bai-viet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/views/site/danh-muc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/views/site/le-hoi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anhdaidien/nguon-goc-ten-goi-hai-phong1604849891.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anhdaidien/tu-nam-1945-den-nay1604248067.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anhlienquan/16051171160_slider.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anhlienquan/16051172400_slider.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/avatar-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/avatar-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/avatar-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/avatar-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/img (26).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/img (28).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/img (30).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/img (32).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Avatars/img (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Architecture/4-col/img (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/12-col/img (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/12-col/img (51).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/4-col/img (30).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/4-col/img (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/4-col/img (43).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/4-col/img (45).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/4-col/img (51).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/4-col/img (60).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/City/6-col/img (49).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/12-col/img (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/12-col/img (115).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/12-col/img (128).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/12-col/img (131).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/12-col/img (98).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (115).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (128).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (131).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (18).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (35).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (73).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (75).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Nature/4-col/img (98).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/12-col/img (15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/12-col/img (49).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (116).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (118).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (119).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (121).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (124).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (49).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (64).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (76).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (78).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (85).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (93).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/4-col/img (95).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/6-col/img (113).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/6-col/img (117).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/6-col/img (33).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/6-col/img (43).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/People/6-col/img (84).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Sport/6-col/img (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Sport/6-col/img (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Sport/6-col/img (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Sport/6-col/img (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Technology/4-col/img (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Technology/4-col/img (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Work/4-col/img (30).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Work/6-col/img (12).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Work/6-col/img (39).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Work/6-col/img (40).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Horizontal/Work/6-col/img (42).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/city1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/city10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/city2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/city3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/city6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/city7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/city8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/city9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (28).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (30).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (33).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (35).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (38).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (39).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (40).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (43).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (45).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/img (46).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/laptop-sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Others/square/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (112).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (124).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (132).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (134).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (135).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (140).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (141).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (142).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (144).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (145).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (39).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (79).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (80).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (81).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Slides/img (9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Vertical/mountain1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Vertical/mountain2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Photos/Vertical/mountain3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/default-skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mdb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quan-ly/js/customgooglemap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/controllers/SiteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/SiteController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c364dd131.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c37af1409.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c38076a4e.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c38d87c32.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c3a81d7d3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c3aa4bbed.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c40e25052.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4151790e.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4152958a.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4153938d.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c41ec1165.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c426c317f.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4448a553.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c447d71c9.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c454ae93c.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4562d51a.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c46a3e504.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c46a54413.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c46a62330.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c46db333d.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c47148393.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c477f14fc.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c47a8778c.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c47d366a3.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c488c64fa.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4a0087d5.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4c81f8e9.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4ccef9af.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4df15ccf.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c4f491044.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c5ccb26eb.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c62f7cd2e.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c6b3976cd.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c6d98d4af.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c6f3cd9fd.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c6f637b29.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c724d36c6.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c737a91cb.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c73ab3a20.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c74200aba.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c752e73f0.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c75d60725.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c76ed59ed.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5f87c783ba9d6.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/index.data" beforeDir="false" afterPath="$PROJECT_DIR$/backend/runtime/debug/index.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/runtime/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/backend/runtime/logs/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/views/layouts/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/layouts/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/views/site/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views/site/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/models/API_H17.php" beforeDir="false" afterPath="$PROJECT_DIR$/common/models/API_H17.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/models/BaiViet.php" beforeDir="false" afterPath="$PROJECT_DIR$/common/models/BaiViet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/models/LeHoi.php" beforeDir="false" afterPath="$PROJECT_DIR$/common/models/LeHoi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/assets/AppAsset.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/assets/AppAsset.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/controllers/SiteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/controllers/SiteController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/views/layouts/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/layouts/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/views/site/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/site/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/css/mybackend.css" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/css/mybackend.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.modules.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.modules.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.modules.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/LightBox/simple-lightbox.modules.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/bootstrap-media-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/bootstrap-media-lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/googlemapapi.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/googlemapapi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/html5shiv.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/html5shiv.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/jquery-1.6.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/jquery-1.6.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/jquery-3.5.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/lightbox-plus-jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/lightbox-plus-jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/respond.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/respond.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/run_prettify.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/run_prettify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/select2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/select2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quan-ly/js/showbutton_slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/quan-ly/js/showbutton_slider.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/gentelella" />
+      <path value="$PROJECT_DIR$/vendor/fortawesome/font-awesome" />
+      <path value="$PROJECT_DIR$/vendor/yiister/yii2-gentelella" />
+      <path value="$PROJECT_DIR$/vendor/rmrevin/yii2-fontawesome" />
+      <path value="$PROJECT_DIR$/vendor/select2/select2" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-select2" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-krajee-base" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/sifter" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/selectize" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/microplugin" />
+      <path value="$PROJECT_DIR$/vendor/2amigos/yii2-selectize-widget" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hoVuvSGXHVN85xwzJehJg57Hoe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\webdulichhaiphong\js" />
+      <recent name="C:\xampp\htdocs\dulichhaiphong\images\anhdaidien" />
+      <recent name="C:\xampp\htdocs\dulichhaiphong\images\anhlienquan" />
+      <recent name="C:\xampp\htdocs\dulichhaiphong\frontend\controllers" />
+      <recent name="C:\xampp\htdocs\dulichhaiphong\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dulichhaiphong\images\anhlienquan" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="codeception.yml" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings scope="ConfigurationFile" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cb2a917-9a9b-4971-8769-aa790fa30b90" name="Default Changelist" comment="" />
+      <created>1600677657540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600677657540</updated>
+      <workItem from="1600677658672" duration="920000" />
+      <workItem from="1600683102203" duration="8000" />
+      <workItem from="1600683146557" duration="3021000" />
+      <workItem from="1600698160840" duration="24000" />
+      <workItem from="1600698340700" duration="3117000" />
+      <workItem from="1600737347849" duration="35000" />
+      <workItem from="1600737392215" duration="15975000" />
+      <workItem from="1600758120672" duration="11255000" />
+      <workItem from="1600824928925" duration="704000" />
+      <workItem from="1600947210834" duration="7000" />
+      <workItem from="1600962111058" duration="2176000" />
+      <workItem from="1600964692654" duration="1593000" />
+      <workItem from="1601015334439" duration="11310000" />
+      <workItem from="1601114713742" duration="2549000" />
+      <workItem from="1601176791174" duration="7369000" />
+      <workItem from="1601205010501" duration="304000" />
+      <workItem from="1601216598687" duration="8658000" />
+      <workItem from="1601278101220" duration="3098000" />
+      <workItem from="1601281257442" duration="527000" />
+      <workItem from="1601281945367" duration="20325000" />
+      <workItem from="1601341800728" duration="1731000" />
+      <workItem from="1601349052996" duration="318000" />
+      <workItem from="1601354426288" duration="1178000" />
+      <workItem from="1601437673308" duration="1347000" />
+      <workItem from="1601823810259" duration="1200000" />
+      <workItem from="1601916943714" duration="364000" />
+      <workItem from="1601959576706" duration="724000" />
+      <workItem from="1601971480045" duration="786000" />
+      <workItem from="1602211764934" duration="105000" />
+      <workItem from="1602428251915" duration="47000" />
+      <workItem from="1602491811361" duration="1106000" />
+      <workItem from="1602551262942" duration="11000" />
+      <workItem from="1602576968381" duration="3584000" />
+      <workItem from="1602656389012" duration="8000" />
+      <workItem from="1602658785902" duration="9000" />
+      <workItem from="1602665536217" duration="2493000" />
+      <workItem from="1602669863809" duration="884000" />
+      <workItem from="1602731708519" duration="2597000" />
+      <workItem from="1603069988534" duration="282000" />
+      <workItem from="1603070376194" duration="3049000" />
+      <workItem from="1603439171898" duration="7000" />
+      <workItem from="1603688669612" duration="608000" />
+      <workItem from="1604161593117" duration="1445000" />
+      <workItem from="1604326394682" duration="101000" />
+      <workItem from="1604376807937" duration="227000" />
+      <workItem from="1604386950577" duration="11000" />
+      <workItem from="1604386962459" duration="1386000" />
+      <workItem from="1604452174719" duration="2952000" />
+      <workItem from="1604760378978" duration="6089000" />
+      <workItem from="1604828186270" duration="10000" />
+      <workItem from="1604846047338" duration="3287000" />
+      <workItem from="1605103513690" duration="15305000" />
+      <workItem from="1605143998814" duration="18511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="137" width="975" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604767234246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="137" width="975" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604767234246" />
+    <state x="669" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605111196401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605111196401" />
+    <state x="624" y="217" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602733053262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="217" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602733053262" />
+    <state x="687" y="217" key="FileChooserDialogImpl" timestamp="1604386959102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604386959102" />
+    <state width="1282" height="580" key="GridCell.Tab.0.bottom" timestamp="1601342617510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="580" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601342617510" />
+    <state width="1282" height="580" key="GridCell.Tab.0.center" timestamp="1601342617510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="580" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601342617510" />
+    <state width="1282" height="580" key="GridCell.Tab.0.left" timestamp="1601342617510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="580" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601342617510" />
+    <state width="1282" height="580" key="GridCell.Tab.0.right" timestamp="1601342617510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="580" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601342617510" />
+    <state x="630" y="195" key="NewPhpClassDialog" timestamp="1605112374212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="195" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605112374212" />
+    <state x="751" y="427" key="NewPhpFileDialog" timestamp="1605174206623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="427" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605174206623" />
+    <state x="624" y="279" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1602667501292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="279" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602667501292" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601201071842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601201071842" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1602734160814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602734160814" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1605167565866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605167565866" />
+  </component>
+</project>

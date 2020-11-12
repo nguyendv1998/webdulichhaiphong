@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="qlwebdulich@148.66.133.222" uuid="d59cb26d-e344-4802-9076-dba77995e9c2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://148.66.133.222:3306/qlwebdulich</jdbc-url>
+    </data-source>
+  </component>
+</project>

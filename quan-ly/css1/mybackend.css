@@ -1,0 +1,60 @@
+.images_anhdaidien{
+    margin-bottom: 20px;
+}
+a.btn_xoa_anhdaidien {
+
+}
+.my_content a{
+    color: #337ab7 ;
+}
+a.btn-success, a.btn-primary, a.btn-warning, a.btn-danger {
+    color: #fff !important;
+}
+div#danhmuc label {
+    margin-right: 20px;
+}
+.my-ul_anh_lien_quan{
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+li.my-ul-li_anh_lien_quan {
+    /* border: 1px solid; */
+    background: #efefef;
+    margin-bottom: 10px;
+}
+.my_box_anhlienquan{
+    position: relative;
+}
+.item_closed {
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.item_closed button {
+    background: none;
+    border: none;
+    width: 100%;
+}
+.image_anh_lien_quan{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-sm .container.body .col-md-3.left_col {
+    min-height: 100%;
+    width: 70px;
+    padding: 0;
+    z-index: 9999;
+    position: fixed !important;
+}
+.nav-md .container.body .col-md-3.left_col {
+    min-height: 100%;
+    width: 230px;
+    padding: 0;
+    display: -ms-flexbox;
+    position: fixed !important;
+    display: flex;
+    z-index: 1;
+}
